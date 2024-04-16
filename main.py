@@ -1,7 +1,7 @@
-from Functions import print_hi
+from Functions import print_hello
 
 
 if __name__ == '__main__':
-    print_hi()
+    print_hello()
 
 
